@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Url of swag lab =https://www.saucedemo.com/]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-08-17T19:09:51 IST" name="Default suite" finished-at="2024-08-17T19:10:08 IST" duration-ms="16873">
+    <groups>
+    </groups>
+    <test started-at="2024-08-17T19:09:51 IST" name="Default test" finished-at="2024-08-17T19:10:08 IST" duration-ms="16873">
+      <class name="testcases.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.LoginPageTest@295cf707]" started-at="2024-08-17T19:09:52 IST" name="setup" finished-at="2024-08-17T19:09:57 IST" duration-ms="4968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginToAppTest()[pri:0, instance:testcases.LoginPageTest@295cf707]" started-at="2024-08-17T19:09:57 IST" name="LoginToAppTest" finished-at="2024-08-17T19:09:58 IST" duration-ms="1677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginToAppTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.LoginPageTest@295cf707]" started-at="2024-08-17T19:09:58 IST" name="tearDown" finished-at="2024-08-17T19:09:58 IST" duration-ms="163" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginToAppTest status=SUCCESS method=LoginPageTest.LoginToAppTest()[pri:0, instance:testcases.LoginPageTest@295cf707] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.LoginPageTest@295cf707]" started-at="2024-08-17T19:09:58 IST" name="setup" finished-at="2024-08-17T19:10:03 IST" duration-ms="4706" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyTitleofApplicationTest()[pri:0, instance:testcases.LoginPageTest@295cf707]" started-at="2024-08-17T19:10:03 IST" name="VerifyTitleofApplicationTest" finished-at="2024-08-17T19:10:03 IST" duration-ms="60" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTitleofApplicationTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.LoginPageTest@295cf707]" started-at="2024-08-17T19:10:03 IST" name="tearDown" finished-at="2024-08-17T19:10:04 IST" duration-ms="407" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerifyTitleofApplicationTest status=SUCCESS method=LoginPageTest.VerifyTitleofApplicationTest()[pri:0, instance:testcases.LoginPageTest@295cf707] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.LoginPageTest@295cf707]" started-at="2024-08-17T19:10:04 IST" name="setup" finished-at="2024-08-17T19:10:08 IST" duration-ms="4550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyURLofApplicationTest()[pri:0, instance:testcases.LoginPageTest@295cf707]" started-at="2024-08-17T19:10:08 IST" name="VerifyURLofApplicationTest" finished-at="2024-08-17T19:10:08 IST" duration-ms="63" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Url of swag lab =https://www.saucedemo.com/]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyURLofApplicationTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.LoginPageTest@295cf707]" started-at="2024-08-17T19:10:08 IST" name="tearDown" finished-at="2024-08-17T19:10:08 IST" duration-ms="215" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerifyURLofApplicationTest status=SUCCESS method=LoginPageTest.VerifyURLofApplicationTest()[pri:0, instance:testcases.LoginPageTest@295cf707] output=Url of swag lab =https://www.saucedemo.com/]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
