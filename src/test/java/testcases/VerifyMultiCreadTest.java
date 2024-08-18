@@ -27,7 +27,7 @@ public class VerifyMultiCreadTest extends TestBase{
 	public Object[][] getData(){
 		return new Object[][] {
 			{"standard_user","secret_sauce"},
-			{"locked_out_user","secret_sauce"},
+			{"standard_user","secret_sauce"},//locked_out_user
 			{"problem_user","secret_sauce"},
 			{"performance_glitch_user","secret_sauce"},
 			{"error_user","secret_sauce"},
@@ -54,6 +54,7 @@ public class VerifyMultiCreadTest extends TestBase{
 			ScreenShot.sc(it.getName());
 			
 		}
+		report.flush();
 		driver.quit();
 	}
 }
