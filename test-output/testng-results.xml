@@ -5,20 +5,20 @@
       <![CDATA[Url of swag lab =https://www.saucedemo.com/]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-08-17T19:09:51 IST" name="Default suite" finished-at="2024-08-17T19:10:08 IST" duration-ms="16873">
+  <suite started-at="2024-08-18T10:35:40 IST" name="Default suite" finished-at="2024-08-18T10:36:04 IST" duration-ms="23255">
     <groups>
     </groups>
-    <test started-at="2024-08-17T19:09:51 IST" name="Default test" finished-at="2024-08-17T19:10:08 IST" duration-ms="16873">
+    <test started-at="2024-08-18T10:35:40 IST" name="Default test" finished-at="2024-08-18T10:36:04 IST" duration-ms="23255">
       <class name="testcases.LoginPageTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.LoginPageTest@295cf707]" started-at="2024-08-17T19:09:52 IST" name="setup" finished-at="2024-08-17T19:09:57 IST" duration-ms="4968" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.LoginPageTest@295cf707]" started-at="2024-08-18T10:35:40 IST" name="setup" finished-at="2024-08-18T10:35:49 IST" duration-ms="8433" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="LoginToAppTest()[pri:0, instance:testcases.LoginPageTest@295cf707]" started-at="2024-08-17T19:09:57 IST" name="LoginToAppTest" finished-at="2024-08-17T19:09:58 IST" duration-ms="1677" status="PASS">
+        <test-method signature="LoginToAppTest()[pri:0, instance:testcases.LoginPageTest@295cf707]" started-at="2024-08-18T10:35:49 IST" name="LoginToAppTest" finished-at="2024-08-18T10:35:53 IST" duration-ms="3860" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginToAppTest -->
-        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.LoginPageTest@295cf707]" started-at="2024-08-17T19:09:58 IST" name="tearDown" finished-at="2024-08-17T19:09:58 IST" duration-ms="163" status="PASS">
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.LoginPageTest@295cf707]" started-at="2024-08-18T10:35:53 IST" name="tearDown" finished-at="2024-08-18T10:35:53 IST" duration-ms="269" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -29,15 +29,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.LoginPageTest@295cf707]" started-at="2024-08-17T19:09:58 IST" name="setup" finished-at="2024-08-17T19:10:03 IST" duration-ms="4706" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.LoginPageTest@295cf707]" started-at="2024-08-18T10:35:53 IST" name="setup" finished-at="2024-08-18T10:35:58 IST" duration-ms="4973" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="VerifyTitleofApplicationTest()[pri:0, instance:testcases.LoginPageTest@295cf707]" started-at="2024-08-17T19:10:03 IST" name="VerifyTitleofApplicationTest" finished-at="2024-08-17T19:10:03 IST" duration-ms="60" status="PASS">
+        <test-method signature="VerifyTitleofApplicationTest()[pri:0, instance:testcases.LoginPageTest@295cf707]" started-at="2024-08-18T10:35:58 IST" name="VerifyTitleofApplicationTest" finished-at="2024-08-18T10:35:58 IST" duration-ms="119" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyTitleofApplicationTest -->
-        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.LoginPageTest@295cf707]" started-at="2024-08-17T19:10:03 IST" name="tearDown" finished-at="2024-08-17T19:10:04 IST" duration-ms="407" status="PASS">
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.LoginPageTest@295cf707]" started-at="2024-08-18T10:35:58 IST" name="tearDown" finished-at="2024-08-18T10:35:58 IST" duration-ms="282" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -48,18 +48,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.LoginPageTest@295cf707]" started-at="2024-08-17T19:10:04 IST" name="setup" finished-at="2024-08-17T19:10:08 IST" duration-ms="4550" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.LoginPageTest@295cf707]" started-at="2024-08-18T10:35:58 IST" name="setup" finished-at="2024-08-18T10:36:03 IST" duration-ms="4973" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="VerifyURLofApplicationTest()[pri:0, instance:testcases.LoginPageTest@295cf707]" started-at="2024-08-17T19:10:08 IST" name="VerifyURLofApplicationTest" finished-at="2024-08-17T19:10:08 IST" duration-ms="63" status="PASS">
+        <test-method signature="VerifyURLofApplicationTest()[pri:0, instance:testcases.LoginPageTest@295cf707]" started-at="2024-08-18T10:36:03 IST" name="VerifyURLofApplicationTest" finished-at="2024-08-18T10:36:03 IST" duration-ms="114" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Url of swag lab =https://www.saucedemo.com/]]>
             </line>
           </reporter-output>
         </test-method> <!-- VerifyURLofApplicationTest -->
-        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.LoginPageTest@295cf707]" started-at="2024-08-17T19:10:08 IST" name="tearDown" finished-at="2024-08-17T19:10:08 IST" duration-ms="215" status="PASS">
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.LoginPageTest@295cf707]" started-at="2024-08-18T10:36:03 IST" name="tearDown" finished-at="2024-08-18T10:36:04 IST" duration-ms="152" status="PASS">
           <params>
             <param index="0">
               <value>
