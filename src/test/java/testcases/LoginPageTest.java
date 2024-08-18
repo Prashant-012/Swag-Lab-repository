@@ -54,6 +54,6 @@ public class LoginPageTest extends TestBase {
 			
 		}
 		report.flush();
-		driver.close();
+		driver.quit();
 	}
 }

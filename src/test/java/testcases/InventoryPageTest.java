@@ -65,6 +65,7 @@ public class InventoryPageTest extends TestBase {
 			ScreenShot.sc(it.getName());
 			
 		}
+		report.flush();
 		driver.quit();
 	}
 	

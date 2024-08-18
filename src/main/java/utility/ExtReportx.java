@@ -15,7 +15,7 @@ public class ExtReportx extends TestBase {
 	public static ExtentReports getReportInstance() {
 		if(report==null) {
 			String reportName=new SimpleDateFormat("dd-mm-YYYY ss-mm-HH").format(new Date()) ;
-			ExtentHtmlReporter htmlReporter= new ExtentHtmlReporter("C:\\Users\\HP\\eclipse-workspace\\Automation Framework\\SSqure\\ExtendsReports"+reportName+".html");
+			ExtentHtmlReporter htmlReporter= new ExtentHtmlReporter("C:\\Users\\HP\\eclipse-workspace\\Automation Framework\\SSqure\\ExtendsReports\\"+reportName+".html");
 			report=new ExtentReports();
 			report.attachReporter(htmlReporter);
 			report.setSystemInfo("OS", "Windows");
