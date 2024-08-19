@@ -39,6 +39,11 @@ public class InventoryPage extends TestBase {
 	@FindBy(xpath = "//a[@class='shopping_cart_link']")
 	private WebElement CartIcon;
 	
+	@FindBy(xpath = "//button[@id='checkout']")
+	private WebElement checkoutBtn;
+	
+	
+	
 	public InventoryPage() {
 		PageFactory.initElements(driver, this);
 	}
@@ -68,6 +73,9 @@ public class InventoryPage extends TestBase {
 		
 		return CartIcon.getText();
 		
+	}
+	public void clickOnCartIcon() {
+		CartIcon.click();
 	}
 	
 }
